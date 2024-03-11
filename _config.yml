@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a demo site for the minimal-mistakes Jekyll theme
 twitter_username: josbraden
 github_username: josbraden
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
