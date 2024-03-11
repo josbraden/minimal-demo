@@ -3,9 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Josh Braden was born in 1994 with a fervor for technology and pushing the bounds of techno-human interaction
+Josh Braden was born in 1994 with a fervor for technology and pushing the bounds of techno-human integration
 
-This is a second paragraph that's going on the about page for this demo website, below is a list of things, including:
+This is a second paragraph that's going on the about page for this demo website; below is a list of things, including:
 
 - The above
 - Synergy
