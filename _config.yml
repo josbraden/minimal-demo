@@ -58,17 +58,17 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-#author:
-#  name   : "Josh Braden"
-#  avatar : "/assets/images/bio-photo.jpeg"
-#  bio    : "My awesome biography constrained to a sentence or two goes here."
-#  links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://www.joshbraden.com"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/josbraden"
+author:
+  name   : "Josh Braden"
+  avatar : "/assets/images/bio-photo.jpeg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.joshbraden.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/josbraden"
 
 footer:
   links:
