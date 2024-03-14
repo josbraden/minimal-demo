@@ -10,7 +10,7 @@ header:
   #actions:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: Josh Braden"
 excerpt: "This is the excerpt"
 intro: 
   - excerpt: 'This is a simple splash page'
