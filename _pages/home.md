@@ -1,5 +1,6 @@
 ---
 title: "Home Page"
+permalink: /
 layout: splash
 header:
   overlay_color: "#000"
