@@ -1,46 +1,37 @@
 ---
-title: "Home Page"
-permalink: /home
 layout: splash
+permalink: /
+hidden: true
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_color: "#5e616c"
   overlay_image: /assets/images/splash-image-1.jpg
   #actions:
-  #  - label: "Download"
-  #    url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: Josh Braden"
-excerpt: "This is the excerpt"
-intro:
-  - excerpt: 'This is a simple splash page'
-#feature_row:
-#  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-#    alt: "placeholder image 1"
-#    title: "Placeholder 1"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-#    alt: "placeholder image 2"
-#    title: "Placeholder 2"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
-#  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-#    title: "Placeholder 3"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#feature_row2:
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "placeholder image 2"
-#    title: "Placeholder Image Left Aligned"
-#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
+  #  - label: "<i class='fas fa-download'></i> Install now"
+  #    url: "/docs/quick-start-guide/"
+excerpt: >
+  This is a simple splash page
+feature_row:
+  - image_path: /assets/images/splash-image-1.jpg
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/splash-image-1.jpg
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/splash-image-1.jpg
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
