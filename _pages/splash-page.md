@@ -12,7 +12,7 @@ header:
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Josh Braden"
 excerpt: "This is the excerpt"
-intro: 
+intro:
   - excerpt: 'This is a simple splash page'
 #feature_row:
 #  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
