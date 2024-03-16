@@ -1,4 +1,5 @@
 ---
+# This file was just messing around with the splash page layout. Not needed.
 title: "Splash Page"
 layout: splash
 permalink: /splash-page/
